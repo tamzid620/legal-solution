@@ -1,0 +1,93 @@
+
+
+/* navbar */
+
+
+
+/* banner */
+
+.banner-info{
+    position: absolute;
+    width: 1115px;
+    margin-top: -486px;
+    margin-right: 50px;
+    padding-top: 150px;
+    padding-bottom:70px;
+    background-image: linear-gradient(rgba(34, 34, 34, 0), rgb(0, 0, 0)), url('./images/Rectangle 7.png');
+    background-size: contain; 
+}
+/* main  */
+.card{
+    padding:30px 10px;
+    width: 300px;
+    border: none;
+}
+.card-l{
+    padding:30px 10px;
+    width: 300px;
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+    border: none;
+}
+.no-gutter > [class*='col-']{
+    padding-left: 0;
+    padding-right: 0;
+    border:1px solid hsl(0, 0%, 91%) ;
+}
+.no-gutter{
+    margin-left: 100px;
+}
+/* What Our Client Say */
+.carousel-info{
+    width: 1118px;
+    margin-top: -545px;
+    padding-bottom: 220px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    background-image: linear-gradient(rgba(34, 34, 34, 0), rgb(0, 0, 0)), url('./images/Rectangle 5.png');
+    background-size: cover; 
+}
+.carousel-info img{
+    width: 150px;
+    border-radius: 50%;
+}
+/* Frequently Asked Any Questions */
+.faq{
+    width: 500px;
+    height: 365px;
+}
+/* contact with us  */
+.no-gutter-1 > [class*='col-']{
+    padding-left: 0;
+    padding-right: 0;
+    border:1px solid hsl(0, 0%, 91%) ;
+}
+.card-2{
+    padding:30px 10px;
+    width: 250px;
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+    border:1px solid hsl(0, 0%, 91%) ;
+}
+input{
+    width: 500px;
+    height: 50px;
+}
+/* footer */
+
+.foot-input{
+    width: 150px;
+}
+
+.button-img{
+    width: 40px;
+}
+
+@media screen and (max-width:576) {
+    .banner-info
+}
+
+
+
+
+
+
